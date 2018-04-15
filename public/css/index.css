@@ -1,0 +1,59 @@
+img {
+    width: 85%;
+    height: auto;
+}
+body {
+    position: relative; 
+}
+section {
+  display: block;
+  height: 100vh;
+  color: #FFFFFF;
+}
+#About {
+  display: block;
+  height: 100vh;
+  font-size: 20px;
+/*   background: green; */
+}
+.row {
+  margin: 30px;
+}
+
+.content {
+    font-family: "Poiret One","Segoe UI","微軟正黑體",sans-serif;
+    margin: 50px;
+}
+
+#Resume {
+  display: block;
+  height: 100vh;
+  font-size: 75px;
+}
+
+
+
+/* Style the header */
+.header {
+  padding: 10px 16px;
+  background: #555;
+  color: #f1f1f1;
+}
+
+/* Page content */
+/* .content {
+  padding: 16px;
+  padding-bottom: 70px; 
+}
+ */
+/* The sticky class is added to the header with JS when it reaches its scroll position */
+/* .sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+} */
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the header gets a new position at the top of the page (position:fixed and top:0) */
+/*. sticky + .content {
+  padding-top: 102px;
+} */ 
